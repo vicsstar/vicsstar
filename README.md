@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Victor Igbokwe, a Full-stack Software Engineer.
-- 👀 I’m interested in OpenSource, Web Development, Mobile Development (with Flutter), Server-side Development (with Scala/NodeJS).
-- 🌱 I’m currently learning Animations in Flutter, Advanced subjects in Scala (Akka Streams, Tagless Final, Scala 3 etc), DevOps with Docker and Kubernetes.
-- 💞️ I’m looking to collaborate on Mobile Development and JavaScript/Dart/Scala projects - OpenSource or Commercial projects.
+- 👀 I’m interested in Web Development, Mobile Development (with Flutter), Server-side Development (with Scala/NodeJS) and OpenSource.
+- 🌱 I’m always learning new things - whatever necessary to keep my skills evergreen and to get the job done.
+- 💞️ I’m looking to collaborate on Mobile and Web Development and other JavaScript/Dart/Scala projects - OpenSource or Commercial projects.
 - 📫 How to reach me: available on Twitter @vicsstar and via email @ vicsstar@yahoo.com
 
 <!---
